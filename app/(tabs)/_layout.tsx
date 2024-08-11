@@ -1,11 +1,11 @@
 import { View, Text } from "react-native";
 
-const AuthLayout = () => {
+const TabLayout = () => {
   return (
     <View>
-      <Text>AuthLayout</Text>
+      <Text>TabLayout</Text>
     </View>
   );
 };
 
-export default AuthLayout;
+export default TabLayout;
